@@ -1,6 +1,6 @@
 # Bright Horizons UI Test Framework
 
-A comprehensive Playwright-based automated testing framework for the Bright Horizons website. This framework follows Page Object Model design patterns and uses XPath selectors for element identification.
+A comprehensive Playwright-based automated testing framework for the Bright Horizons website. This framework follows Page Object Model design patterns.
 
 ## Project Structure
 
