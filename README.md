@@ -86,18 +86,6 @@ Run tests with browser UI:
 npx playwright test --headed
 ```
 
-Run specific test file:
-
-```bash
-npx playwright test tests/brightHorizons.test.ts --headed
-```
-
-Run tests with debug mode:
-
-```bash
-npx playwright test --debug
-```
-
 ### Using VS Code Playwright Extension
 
 1. Open the test file in VS Code
