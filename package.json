@@ -1,0 +1,27 @@
+{
+  "name": "bright-horizon-ui-test-playwright-framework",
+  "version": "1.0.0",
+  "description": "Playwright Test Framework for Bright Horizon",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:head": "npx playwright test --headed",
+    "test:ui": "npx playwright test --ui",
+    "report": "npx playwright show-report"
+  },
+  "keywords": [
+    "playwright",
+    "testing",
+    "automation"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.40.0",
+    "ts-node": "^10.9.0",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
