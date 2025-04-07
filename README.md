@@ -1,4 +1,4 @@
-# Bright Horizons UI Test Framework
+# Playwright - Modern UI Test Automation Framework
 
 A comprehensive Playwright-based automated testing framework for the Bright Horizons website. This framework follows Page Object Model design patterns.
 
